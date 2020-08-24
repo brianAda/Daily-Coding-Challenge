@@ -1,4 +1,3 @@
-/* eslint-disable */
 /*
  * Given a string s and a character c, return the number of occurences of c in s.
  *
@@ -11,25 +10,25 @@
  *
  */
 
-//Using for..of. O(n)
+// Using for..of. O(n)
 function numChars3(str, char) {
   let counter = 0;
-  for (let c of str) {
+  for (const c of str) {
     if (c === char) ++counter;
   }
   return counter;
 }
 
-//Alternate solution - Using forEach
+// Alternate solution - Using forEach
 function numChars2(str, char) {
   let counter = 0;
-  [...str].forEach(c => {
+  [...str].forEach((c) => {
     if (c === char) ++counter;
   });
   return counter;
 }
 
-//Using reduce
+// Using reduce
 function numChars(str, char) {
   return [...str].reduce((acc, c) => {
     if (c === char) ++acc;
