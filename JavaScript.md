@@ -5,6 +5,7 @@
 ### Project Euler
 ---
 * 8/26/2020 - Problem 1: [Sum of Multiples](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020-08-26/multiples3and5.js)  
+* 8/28/2020 - Problem 2: [Sum of Even Fibonacci](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020-08-28/evenFibonacci.js)
 
 ### Cassidoo Weekly Challenge
 ---
