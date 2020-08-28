@@ -1,7 +1,7 @@
 ### LeetCode
 ---
 * 8/25/2020 - [Reverse a Linked List](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020-08-25/reverseLinkedList.js)  
-* 8/27/2020 [Merge Two Sorted Lists](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020-08-27/mergeSortedLists.js)
+* 8/27/2020 - [Merge Two Sorted Lists](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020-08-27/mergeSortedLists.js)
 
 ### Project Euler
 ---
