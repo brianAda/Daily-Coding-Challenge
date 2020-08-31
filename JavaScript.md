@@ -2,6 +2,8 @@
 ---
 * 8/25/2020 - [Reverse a Linked List](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-25/reverseLinkedList.js)  
 * 8/27/2020 - [Merge Two Sorted Lists](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-27/mergeSortedLists.js)
+* 8/29/2020 - [Palindrome Linked list](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-29/PalindromeLinkedList.js)
+* 8/30/2020 - [Implement strStr](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-30/strStr.js)
 
 ### Project Euler
 ---
