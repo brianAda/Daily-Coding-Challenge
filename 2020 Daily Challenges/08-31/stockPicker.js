@@ -31,7 +31,7 @@ function stockBuySell(days) {
   return `buy on day ${buy + 1}, sell on day ${sell + 1}`;
 }
 
-// Sliding window solution -  Single-pass O(n) time
+// Single-pass O(n) time
 function stockBuySell2(days) {
   let maxProfit = 0;
   let min = null;
