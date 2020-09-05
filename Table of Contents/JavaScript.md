@@ -5,6 +5,7 @@
 * 8/29/2020 - [Palindrome Linked list](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-29/PalindromeLinkedList.js)
 * 8/30/2020 - [Implement strStr](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-30/strStr.js)
 * 9/1/2020 - [Shuffle an Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-01/shuffleArray.js)
+* 9/5/2020 - [Recursively Reverse an Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-05/reverseArray.js)
 
 ### Project Euler
 ---
