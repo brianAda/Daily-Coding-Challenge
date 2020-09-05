@@ -36,4 +36,17 @@ const reverseString = function (s) {
   return s;
 };
 
-reverseString(['h', 'e', 'l', 'l', 'o']);
+
+// Two-pointer recursive solution
+function swapChars (start, end, s) {
+  if (start >= end) return;
+  [s[start], s[end]] = [s[end], s[start]];
+  swapChars(++start, --end, s);
+}
+
+const reverseString2 = function (s) {
+  swapChars(0, s.length - 1, s);
+  return s;
+};
+
+reverseString2(['h', 'e', 'l', 'l', 'o']);
