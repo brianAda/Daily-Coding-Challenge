@@ -27,7 +27,7 @@
 let swapPairs = function (head) {
   if (head === null || head.next === null) return head;
   const tmp = head.next;
-  head.next = tmp.next
+  head.next = tmp.next;
   tmp.next = head;
   head.next = swapPairs(head.next);
   return tmp;
