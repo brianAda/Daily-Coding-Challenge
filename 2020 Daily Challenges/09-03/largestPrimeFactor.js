@@ -27,4 +27,4 @@ function largestPrimeFactor(num) {
   return largestPrime;
 }
 
-let test = largestPrimeFactor(13195);
+let test = largestPrimeFactor(600851475143);
