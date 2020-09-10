@@ -3,9 +3,6 @@
  *
  * Rules: https://en.wikipedia.org/wiki/Pig_Latin#Rules
  *
- *   stockBuySell([110, 180, 260, 40, 310, 535, 695])
- *   returns: "buy on day 4, sell on day 7"
- *
  * From @cassidoo's weekly newsletter:
  * https://buttondown.email/cassidoo/archive/76754bbd-c068-449b-be0c-c20d38699ca8
  *
