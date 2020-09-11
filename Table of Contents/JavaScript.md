@@ -8,6 +8,7 @@
 * 9/5/2020 - [Recursively Reverse an Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-05/reverseArray.js)
 * 9/7/2020 - [Recursively Swap Node Pairs](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-07/swapNodes.js)
 * 9/9/2020 - [Searching a BST](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-09/searchBinarySearchTree.js)
+* 9/10/2020 - [Pascal's Triangle](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-10/pascalsTriangle.js)
 
 ### Project Euler
 ---
