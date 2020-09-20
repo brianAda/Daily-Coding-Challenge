@@ -9,6 +9,8 @@
 * 9/7/2020 - [Recursively Swap Node Pairs](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-07/swapNodes.js)
 * 9/9/2020 - [Searching a BST](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-09/searchBinarySearchTree.js)
 * 9/10/2020 - [Pascal's Triangle](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-10/pascalsTriangle.js)
+* 9/11/2020 - [Median of Sorted Arrays](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-11/medianOfSortedArrays.js)
+* 9/13/2020 - [Words from Characters](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-13/wordsFromChars.js)
 
 ### Project Euler
 ---
