@@ -12,6 +12,7 @@
 * 9/11/2020 - [Median of Sorted Arrays](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-11/medianOfSortedArrays.js)
 * 9/13/2020 - [Words from Characters](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-13/wordsFromChars.js)
 * 9/15/2020 - [Fibonacci Sequence](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-15/fibNumber.js)
+* 9/20/2020 - [Climbing Stairs](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-20/climbingStairs.js)
 
 ### Project Euler
 ---
