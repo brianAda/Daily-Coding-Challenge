@@ -1,7 +1,7 @@
 /* eslint-disable */
 
 /*
- * You are climbing a stair case.It takes n steps to reach to the top.
+ * You are climbing a staircase. It takes n steps to reach to the top.
  *
  * Each time you can either climb 1 or 2 steps.In how many distinct ways can you climb to the top ?
  *
@@ -13,7 +13,7 @@
 
 
 // Recursive solution: Performs repeat calculations
-// Time: O(n) Space: O(n^2)
+// Time: O(2^n) Space: O(n)
 /**
  * @param {number} n
  * @return {number}
