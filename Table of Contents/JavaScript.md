@@ -26,3 +26,4 @@
 * 8/24/2020 - [numChars](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-24/numChars.js)
 * 8/31/2020 - [singleStockPicker](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-31/stockPicker.js)
 * 9/08/2020 - [pigLatin](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-08/pigLatin.js)
+* 9/21/2020 - [asteroids](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-21/asteroids.js)
