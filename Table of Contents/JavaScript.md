@@ -11,12 +11,13 @@
 * 9/10/2020 - [Pascal's Triangle](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-10/pascalsTriangle.js)
 * 9/11/2020 - [Median of Sorted Arrays](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-11/medianOfSortedArrays.js)
 * 9/13/2020 - [Words from Characters](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-13/wordsFromChars.js)
+* 9/15/2020 - [Fibonacci Sequence](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-15/fibNumber.js)
 
 ### Project Euler
 ---
 * 8/26/2020 - Problem 1: [Sum of Multiples](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-26/multiples3and5.js)  
 * 8/28/2020 - Problem 2: [Sum of Even Fibonacci](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-28/evenFibonacci.js)
-* 9/3/2020 - Problem 3: [Sum of Even Fibonacci](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-03/largestPrimeFactor.js)
+* 9/3/2020 - Problem 3: [Largest Prime Factor](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-03/largestPrimeFactor.js)
 
 ### Cassidoo Weekly Challenge
 ---
