@@ -13,7 +13,7 @@
 
 
 // Recursive solution: Performs repeat calculations
-// Time: O(n) Space: O(n^2)
+// Time: O(2^n) Space: O(n)
 /**
  * @param {number} n
  * @return {number}
