@@ -27,17 +27,12 @@ var findMaxConsecutiveOnes = function (nums) {
   nums.forEach(curr => {
     if (curr === 1) {
       ++counter;
+      currMax = Math.max(currMax, counter);
     } else {
-      if (counter > currMax) {
-        currMax = counter;
-      }
       counter = 0;
     }
   });
-  if (counter > currMax) {
-    currMax = counter;
-  }
   return currMax;
 };
 
-findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]);
+let foo = findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]);
