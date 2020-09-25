@@ -11,7 +11,7 @@
  *   The input array will only contain 0 and 1.
  *   The length of input array is a positive integer and will not exceed 10, 000
  *
- * From LeetCode featured set on Arrays: //https:leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3238/
+ * From LeetCode featured set on Arrays: https:leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3238/
  *
  */
 
@@ -35,4 +35,4 @@ var findMaxConsecutiveOnes = function (nums) {
   return currMax;
 };
 
-let foo = findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]);
+findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]);
