@@ -15,6 +15,7 @@
 * 9/20/2020 - [Climbing Stairs](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-20/climbingStairs.js)
 * 9/24/2020 - [Max Consecutive Ones](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-24/maxConsecutiveOnes.js)
 * 9/25/2020 - [Number of Even Length Numbers](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-25/numEvenDigits.js)
+* 9/26/2020 - [Squares of Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-26/squaresOfSortedArray.js)
 
 ### Project Euler
 ---
