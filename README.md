@@ -2,4 +2,4 @@
 
 Personal repo containing solutions to daily morning coding challenges.
 
-📚 See [Table of Contents](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/Table%20of%20Contents/_Table%20of%20Contents.md) for problems grouped by their source and language.
+📚 See [Index](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/Index/_Index.md) for problems grouped by their source and language.
