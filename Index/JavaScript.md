@@ -17,6 +17,7 @@
 * 9/25/2020 - [Number of Even Length Numbers](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-25/numEvenDigits.js)
 * 9/26/2020 - [Squares of Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-26/squaresOfSortedArray.js)
 * 9/27/2020 - [pow(x, n)](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-27/pow.js)
+* 9/29/2020 - [Duplicate Zeros](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-29/duplicateZeros.js)
 * 10/1/2020 - [Merge Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-01/mergeSortedArray.js)
 
 ### Project Euler
@@ -30,5 +31,6 @@
 
 * 8/24/2020 - [numChars](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-24/numChars.js)
 * 8/31/2020 - [singleStockPicker](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-31/stockPicker.js)
-* 9/08/2020 - [pigLatin](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-08/pigLatin.js)
+* 9/8/2020 - [pigLatin](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-08/pigLatin.js)
 * 9/21/2020 - [asteroids](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-21/asteroids.js)
+* 10/4/2020 - [Fibonacci-Like Subsequences]()
