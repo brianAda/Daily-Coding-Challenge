@@ -19,6 +19,7 @@
 * 9/27/2020 - [pow(x, n)](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-27/pow.js)
 * 9/29/2020 - [Duplicate Zeros](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-29/duplicateZeros.js)
 * 10/1/2020 - [Merge Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-01/mergeSortedArray.js)
+* 10/6/2020 - [Remove Element in Place](https://github.com/brianAda/Daily-Coding-Challenge/tree/master/2020%20Daily%20Challenges/10-06)
 
 ### Project Euler
 ---
