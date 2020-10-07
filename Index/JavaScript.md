@@ -34,5 +34,5 @@
 * 8/31/2020 - [singleStockPicker](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/08-31/stockPicker.js)
 * 9/8/2020 - [pigLatin](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-08/pigLatin.js)
 * 9/21/2020 - [asteroids](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/09-21/asteroids.js)
-* 10/4/2020 - [Fibonacci-Like Subsequences]()
+* 10/4/2020 - [Fibonacci-Like Subsequences](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-04/fibLikeSubstring.js)
 * 10/5/2020 - [Minimum Element in Rotated Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/tree/master/2020%20Daily%20Challenges/10-05)
