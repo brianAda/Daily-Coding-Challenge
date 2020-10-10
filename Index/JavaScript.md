@@ -21,6 +21,7 @@
 * 10/1/2020 - [Merge Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-01/mergeSortedArray.js)
 * 10/6/2020 - [Remove Element in Place](https://github.com/brianAda/Daily-Coding-Challenge/tree/master/2020%20Daily%20Challenges/10-06)
 * 10/7/2020 - [Find Peak Index](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-07/peakIndex.js)
+* 10/9/2020 - [Find Double Value](https://github.com/brianAda/Daily-Coding-Challenge/commit/5366d4fea8255204db2560b9cd443c162a6dc10f)
 
 ### Project Euler
 ---
