@@ -24,6 +24,8 @@
 * 10/9/2020 - [Find Double Value](https://github.com/brianAda/Daily-Coding-Challenge/commit/5366d4fea8255204db2560b9cd443c162a6dc10f)
 * 10/10/2020 - [Valid Mountain Array](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-10/validMountain.js)
 * 10/13/2020 - [Replace with Greatest Right Element](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-13/replaceWithGreatestToRight.js)
+* 10/14/2020 - [Remove Duplicates from Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/commit/bf18661521b43ea3bd98272836aeb11296199cff)
+
 
 ### Project Euler
 ---
