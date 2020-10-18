@@ -26,7 +26,7 @@
 * 10/13/2020 - [Replace with Greatest Right Element](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-13/replaceWithGreatestToRight.js)
 * 10/14/2020 - [Remove Duplicates from Sorted Array](https://github.com/brianAda/Daily-Coding-Challenge/commit/bf18661521b43ea3bd98272836aeb11296199cff)
 * 10/16/2020 - [Move Zeros](https://github.com/brianAda/Daily-Coding-Challenge/tree/master/2020%20Daily%20Challenges/10-16)
-* 10/17/2020 - [Sort Array By Pairity](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-18/sortArrayByPairity.js)
+* 10/18/2020 - [Sort Array By Pairity](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-18/sortArrayByPairity.js)
 
 
 ### Project Euler
