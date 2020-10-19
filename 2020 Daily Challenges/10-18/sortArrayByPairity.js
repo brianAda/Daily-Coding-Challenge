@@ -21,11 +21,13 @@ var sortArrayByParity = function(A) {
     if (A[start] % 2 === 0) {
       ++start;
     }
-    if (A[start] % 2 === 1) {
+    if (A[end] % 2 === 1) {
       --end;
     }
   }
   return A;
 };
 
-let test = sortArrayByParity([3, 1, 2, 4]);
+//let test = sortArrayByParity([3, 1, 2, 4]);
+let test2 = sortArrayByParity([0, 1, 2]);
+
