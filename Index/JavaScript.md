@@ -30,6 +30,7 @@
 * 10/20/2020 - [Binary Tree Preorder Traversal](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-20/binaryTreePreorderTraversal.js)
 * 10/21/2020 - [Binary Tree Postorder Traversal](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-21/binaryTreeInorderTraversal.js)
 * 10/22/2020 - [Binary Tree Inorder Traversal](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-22/binaryTreePostorderTraversal.js)
+* 10/25/2020 - [Happy Number](https://github.com/brianAda/Daily-Coding-Challenge/blob/master/2020%20Daily%20Challenges/10-25/happyNumber.js)
 
 
 ### Project Euler
